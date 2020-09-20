@@ -1,2 +1,2 @@
 # Frontend-Mini-Projects
-Some project I created to improve html/css skills. 
+Mini Projects I created to improve html/css skills. 
